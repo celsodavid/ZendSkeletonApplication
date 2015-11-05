@@ -18,6 +18,13 @@ Create your new ZF2 project:
     composer create-project -n -sdev zendframework/skeleton-application path/to/install
 
 
+Configurações
+
+	composer update in to /path/to/project or php composer update in to /path/to/project
+	
+	renomear o arquivo zenddevelopertools.local.php.dist para zenddevelopertools.local.php
+
+
 
 ### Installation using a tarball with a local Composer
 
